@@ -272,7 +272,7 @@ class attacco(threading.Thread):
 # gioi thieu
 os.system("color d")
 print \
-"""
+'''
 ###################################################
 # _                          ____                 #
 #| |    __ _ _   _  ___ _ __|  _ \  ___  ___      #
@@ -283,7 +283,7 @@ print \
 ###################################################
 > Tool DDoS Created By HaRuKi
 > Tool With Proxy
-"""
+'''
 print '---------------------------------------------------'
 # Site
 url = raw_input("victim: ")
